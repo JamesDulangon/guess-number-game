@@ -11,4 +11,4 @@ A simple guess number game based in Javascript.
 
 ![image](https://user-images.githubusercontent.com/72920953/158939926-b707d191-eb76-45c3-8c2c-45bf7da0e977.png)
 
-This a part of the coding challenge exercise from "The Complete JavaScript Course 2021"
+This a part of the coding challenge exercise from "The Complete JavaScript Course 2021" course.
